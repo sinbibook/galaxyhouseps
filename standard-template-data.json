@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-04-20T06:05:25.043Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-04-20T06:12:11.198Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "68ef1b78-ec48-406e-8286-5454c09a7e65",
     "homepageId": "92f4e113-a978-4859-9641-2ba2b9f3de52"
@@ -1255,15 +1255,15 @@
                     "isSelected": true
                   },
                   {
-                    "id": "22882be1-cee7-4a88-ba6c-ccf3c7ed512a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/index_hero/1776414500582-4xszbdsws48.jpg",
+                    "id": "f5e54b31-a0b7-41ea-b3b5-918521e7f32a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/index_hero/1776414500582-5rrbeobro7s.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "f5e54b31-a0b7-41ea-b3b5-918521e7f32a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/index_hero/1776414500582-5rrbeobro7s.jpg",
+                    "id": "22882be1-cee7-4a88-ba6c-ccf3c7ed512a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/index_hero/1776414500582-4xszbdsws48.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
@@ -1307,13 +1307,6 @@
                     "id": "4c492372-32e9-4c8d-926a-c9a0d4bf27e4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/index_hero/1776414500583-xr53ul3wqg.jpg",
                     "sortOrder": 8,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "95f42890-49e0-41b5-9f82-1484a9039dd6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/index_hero/1776414500583-3csuct4nai5.jpg",
-                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true
                   }
