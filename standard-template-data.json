@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-04-20T05:54:22.691Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-04-20T06:05:25.043Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "68ef1b78-ec48-406e-8286-5454c09a7e65",
     "homepageId": "92f4e113-a978-4859-9641-2ba2b9f3de52"
@@ -1405,16 +1405,9 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "8d38a2fd-8c04-4745-a9b7-1e45cb1ec46d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/index_signature/1776414626130-trnemqebo9.jpg",
-                    "sortOrder": 0,
-                    "description": "애견 잔디장에서 마음껏 뛰어놀수 있는 공간 🐶🌿",
-                    "isSelected": true
-                  },
-                  {
                     "id": "8c7c5218-9792-40af-99d6-58b0cd489862",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/index_signature/1776664455514-vp6rxuz6rp.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "애견 잔디장에서 마음껏 뛰어놀수 있는 공간 🐶🌿",
                     "isSelected": true
                   },
