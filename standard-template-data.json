@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-04-17T10:38:34.499Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-04-20T01:05:59.185Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "68ef1b78-ec48-406e-8286-5454c09a7e65",
     "homepageId": "92f4e113-a978-4859-9641-2ba2b9f3de52"
@@ -1450,7 +1450,7 @@
           "sections": [
             {
               "hero": {
-                "title": " ",
+                "title": " 가평 퍼니멍멍 갤럭시 하우스점",
                 "images": [
                   {
                     "id": "81b531c8-99d7-4a3a-b783-54d23974a0f7",
@@ -1460,7 +1460,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": "바로 앞 계곡이 흐르는 자연 속 힐링 공간 🌿\n넓은 애견운동장에서 반려견과 마음껏 뛰어놀 수 있는 공간이에요.\n스파와 핀란드식 사우나까지 더해져 힐링을 완성합니다.\n자연과 여유, 즐거움이 함께하는 펜션,\n반려견과의 특별한 하루를 만들어보세요."
               },
               "about": [
                 {
