@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-05-08T03:01:41.368449419Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-05-18T05:04:23.853180329Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "68ef1b78-ec48-406e-8286-5454c09a7e65",
     "homepageId": "92f4e113-a978-4859-9641-2ba2b9f3de52"
@@ -25,7 +25,7 @@
     "province": "경기도",
     "city": "가평군",
     "domain": "galaxyhouseps.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11642",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/55759049",
     "ybsId": "80039",
     "amenities": [ ],
     "nearbyAttractions": [
@@ -659,6 +659,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -724,6 +725,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -789,6 +791,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -854,6 +857,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -919,6 +923,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -984,6 +989,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1048,6 +1054,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1112,6 +1119,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1176,6 +1184,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
