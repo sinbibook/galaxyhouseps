@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-08-10T07:58:52.413909307Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-10-08T08:43:29.169612355Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "68ef1b78-ec48-406e-8286-5454c09a7e65",
     "homepageId": "92f4e113-a978-4859-9641-2ba2b9f3de52"
@@ -15,7 +15,9 @@
     "address": "경기 가평군 북면 오목골길 11 갤럭시하우스",
     "latitude": 37.9173465322342,
     "longitude": 127.495825027176,
-    "contactPhone": "010-5771-0210",
+    "contactPhone": [
+      "010-5771-0210"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -587,7 +589,10 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ]
+    ],
+    "tripPropertyId": "11642",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서"
   },
   "rooms": [
     {
@@ -1991,8 +1996,8 @@
       "title": "가평 퍼니멍멍 갤럭시하우스점",
       "description": "계곡 앞 자연 속에서 반려견과 마음껏 뛰어놀 수 있는 감성 펜션",
       "keywords": "가평퍼니멍멍,갤럭시하우스,애견동반펜션,가평애견펜션,반려견여행",
-      "naverSiteVerification": null,
-      "googleSiteVerification": null
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
     },
     "socialLinks": {
       "facebook": null,
@@ -2314,10 +2319,41 @@
               }
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "11064a94-8217-49a9-bfeb-9a95912e04a9",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "01a11aae-867e-7aee-b408-a6910426ef7d",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/92f4e113-a978-4859-9641-2ba2b9f3de52/popup/1791449007361-mquroiko54.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "11064a94-8217-49a9-bfeb-9a95912e04a9"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
